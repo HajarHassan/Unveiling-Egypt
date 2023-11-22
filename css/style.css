@@ -1,0 +1,178 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 7000px;
+}
+.search-nav{
+margin-left: auto;
+}
+.logo:hover{
+    font-size: 30px;
+   text-shadow: 1px 2px rgb(198, 170, 31);;
+}
+.icons{
+    top:220px;
+    margin-left: 1430;
+    position: absolute;
+    z-index: 100;
+    position: fixed;
+}
+.icons a{
+    font-size: 60px;
+    display: block;
+    margin-bottom: 20px;
+    color: rgb(198, 170, 31);
+  
+}
+.sec-2{
+    width: 100%;
+    height: 25vh;
+    margin-top: 100px;
+}
+.sec-3{
+    width: 100%;
+    height: 85vh;
+    margin-top: 150px;
+}
+.sec-3-title{
+    margin-left: 100px;
+}
+.col-lg-6{
+    
+   height: 250px;
+   padding: 20px;
+   border-radius: 70px;
+  
+}
+.sec-3-btn{
+margin-left: 30px;
+}
+.watts:hover{
+    color: #079786;
+}
+.inst:hover{
+    color: #d6249f;
+}
+.twitter:hover{
+    color: #26a7de;
+}
+.sec-4{
+    width: 100%;
+    height: 60vh;
+    background-color: rgb(234, 238, 197);
+}
+.sec-5{
+    width: 100%;
+    height: 70vh;
+    background-image: url(../imgs/الاماكن-السياحية-فى-الاقصر.jpg);
+    background-attachment: fixed;
+    margin-top: 100px;
+}
+.sec-6{
+    width: 100%;
+    background-color: rgb(234, 238, 197);
+    margin-top: 100px;
+}
+.title-color{
+    color: #C47A46;
+}
+.sec-7{
+    width: 100%;
+    height: 70vh;
+    background-image: url(../imgs/large_Templo_de_Karnak\,_Luxor\,_Egipto\,\ \(1\).webp);
+    background-attachment: fixed;
+    margin-top: 100px;
+
+}
+.sec-8-thanks{
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    background-color: #C47A46;
+}
+.sec-8-title{
+font-size: 50px;
+}
+.card-img-overlay{
+    background-color: rgba(200, 168, 129,0.4);
+}
+.card-img-overlay:hover{
+    background-color: rgba(84, 47, 2, 0.4);
+}
+.sec-9-card{
+    transition: 0.3s;
+}
+.sec-9-card:hover{
+    transform: scale(0.8,0.8);
+
+}
+.icon , .sec-9-text{
+    display: inline;
+}
+.image-circle1{
+    background-image: url(../imgs/user1.webp);
+    background-size: cover;
+    width: 130px;
+    height: 140px;
+    border-radius: 50%;
+    margin-top: 150px;
+
+}
+.image-circle2{
+    background-image: url(../imgs/user22.webp);
+    background-size: cover;
+    width: 130px;
+    height: 140px;
+    border-radius: 50%;
+    margin-top: 150px;
+
+}
+.image-circle3{
+    background-image: url(../imgs/user2.jpg);
+    background-size: cover;
+    width: 130px;
+    height: 140px;
+    border-radius: 50%;
+    margin-top: 150px;
+}
+.sec-10-news{
+    text-align: center;
+    margin-top: 100px;
+}
+.icons{
+    font-size: 45px;
+    text-align: center;
+    display: block;
+}
+footer{
+    background-color: #C47A46;
+    width: 100%;
+    height: 50vh;
+    margin-top: 150px;
+}
+.foot2{
+    margin: auto;
+}
+.foot2 a{
+    font-size: 25px;
+    color: black;
+    text-align: center;
+}
+.foot1-img{
+margin-left: 100px;
+}
+.sec-10-title{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.sec-10-hover{
+    background-color: #C47A46;
+}
+.sec-10-hover:hover .sec10-img{
+transform: scale(1.1,1.1);
+}
+  
